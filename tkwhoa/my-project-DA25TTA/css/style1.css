@@ -24,7 +24,7 @@ div.div1{
     border: 1px solid black;
     margin: auto;
     padding: 7px;
-    background: linear-gradient(90deg, #00C9FF 0%, #92FE9D 100%);
+    background: linear-gradient(90deg, #3700ff 0%, #fa92fe 100%);
     border-radius: 10px;
     width: 95%;
 }
@@ -34,7 +34,7 @@ table#bang1
     margin: auto;
     border-radius: 15px;
     overflow: hidden;
-    background:linear-gradient(90deg, #00C9FF 0%, #92FE9D 100%);
+    background:linear-gradient(90deg, #00C9FF 0%, #92c1fe 100%);
 }
 table#bang1 td{
     border: none;
@@ -47,7 +47,7 @@ table#bang2,table#bang2 td,table#bang2 tr,table#bang2 th
     margin:auto;
     width: 50%;
     height: 30px;
-    background:linear-gradient(90deg, #00C9FF 0%, #92FE9D 100%);
+    background:linear-gradient(90deg, #00C9FF 0%, #fe92de 100%);
     border-radius: 10px;
 } 
 table#bang2 th
@@ -59,7 +59,7 @@ ol{
     margin: auto;
     border-radius: 9px;
     width: 50%;
-    background:linear-gradient(90deg, #00C9FF 0%, #92FE9D 100%);
+    background:linear-gradient(90deg, #00C9FF 0%, #feee92 100%);
     padding: 5px;
     list-style-position: inside;
 }
@@ -68,7 +68,7 @@ ul{
     margin: auto;
     border-radius: 9px;
     width: 50%;
-    background:linear-gradient(90deg, #00C9FF 0%, #92FE9D 100%);
+    background:linear-gradient(90deg, #00C9FF 0%, #fe92da 100%);
     padding: 5px;
     list-style-position: inside;
 }
@@ -80,5 +80,5 @@ div.info
     margin: auto;
     border-radius: 9px;
     width: 50%;
-    background:linear-gradient(90deg, #00C9FF 0%, #92FE9D 100%);
+    background:linear-gradient(90deg, #00C9FF 0%, #f3fe92 100%);
 }
